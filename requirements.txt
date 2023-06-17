@@ -3,3 +3,4 @@ pandas
 streamlit
 langchain
 openai
+tabulate
