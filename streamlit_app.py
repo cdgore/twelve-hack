@@ -95,7 +95,7 @@ if len(openai_api_key) > 0:
         'medsREASONDESCRIPTION'- reason for medication administration
         'obsDESCRIPTION'- description of medical observation
         'obsVALUE’- numerical value for medical observation
-         'obsUNITS'- unit for the numerical value of each medical observation
+        'obsUNITS'- unit for the numerical value of each medical observation
         'procDESCRIPTION'- description of procedure patient underwent
         'procREASONDESCRIPTION'- reason for procedure patient underwent
 
